@@ -1,2 +1,2 @@
-# project_dsp
-Week 1 Assignment
+# DSP Project
+Week 1 Assignment Submission
